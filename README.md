@@ -1,4 +1,4 @@
-## Senior Smart Contract Developer 👋
+## Senior Smart Contract & Fullstack Developer 👋
 
 <!--
 **aifeelit/aifeelit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
