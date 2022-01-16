@@ -1,4 +1,4 @@
-## Senior Smart Contract & Fullstack Developer 👋
+## My telegram is @joy0129 I'd love you to contact me. 👋
 My telegram is @joy0129
 I'd love you to contact me.
 
