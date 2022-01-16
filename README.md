@@ -1,6 +1,4 @@
-## My telegram is @joy0129 I'd love you to contact me. 👋
-My telegram is @joy0129
-I'd love you to contact me.
+Senior Solidity & Fullstack Developer👋
 
 <!--
 **aifeelit/aifeelit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
