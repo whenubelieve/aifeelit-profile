@@ -1,4 +1,6 @@
 ## Senior Smart Contract & Fullstack Developer 👋
+My telegram is @joy0129
+I'd love you to contact me.
 
 <!--
 **aifeelit/aifeelit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
