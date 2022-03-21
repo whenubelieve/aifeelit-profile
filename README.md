@@ -8,7 +8,6 @@
 
 <p align="justify">Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 (i.e. Proxy and Cross chain bridge, etc)</p>
-
 <p align="right">3 Years’ Solidity (2019-2021) | 4+ Year's Fullsatck Experience</p>
 
 ## My Skills
