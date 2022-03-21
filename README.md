@@ -92,7 +92,7 @@ Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https:
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png
-[banner-link]: https://social.cheesits456.dev
+[banner-link]: https://chrishunter.herokuapp.com
 
 [sponsor]: https://github.com/sponsors/cheesits456
 
