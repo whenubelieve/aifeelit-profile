@@ -10,12 +10,8 @@
 (i.e. Proxy and Cross chain bridge, etc)</p>
 <p align="right">3 Years’ Solidity (2019-2021) | 4+ Year's Fullsatck Experience</p>
 
-## Contacts
-
 
 ## Skills
-
-
 ### Languages
 
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/aifeelit/aifeelit/raw/master/icons/bash.png" height="42"></a></code>
@@ -48,6 +44,8 @@
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
+
+## Contacts
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png
