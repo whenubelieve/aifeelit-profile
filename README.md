@@ -51,28 +51,3 @@
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png
 [banner-link]: https://hunter0129.herokuapp.com/
-
-[sponsor]: https://github.com/sponsors/aifeelit
-
-[website-img]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
-[website-link]: https://aifeelit.dev
-[discord-img]: https://img.shields.io/badge/-Discord-e722e7?style=for-the-badge
-[discord-link]: https://discord.gg/7QH4YeD
-[email-img]: https://img.shields.io/badge/-E--Mail-e722e7?style=for-the-badge
-[email-link]: mailto:quin@aifeelit.dev
-
-[github-stats-img]: https://aifeelit-readme-stats.vercel.app/api?username=aifeelit&count_private=true&show_icons=true&include_all_commits=true
-[github-langs-img]: https://aifeelit-readme-stats.vercel.app/api/top-langs?username=aifeelit&layout=compact&hide=smarty
-
-[pin1-img]: https://aifeelit-readme-stats.vercel.app/api/pin/?username=aifeelit&repo=aifeelit.github.io
-[pin1-link]: https://github.com/aifeelit/aifeelit.github.io
-[pin2-img]: https://aifeelit-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=haileybot.github.io&show_owner=true
-[pin2-link]: https://github.com/HaileyBot/haileybot.github.io
-[pin3-img]: https://aifeelit-readme-stats.vercel.app/api/pin/?username=aifeelit&repo=NewDiscordBridge
-[pin3-link]: https://github.com/aifeelit/NewDiscordBridge
-[pin4-img]: https://aifeelit-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=captcha-generator&show_owner=true
-[pin4-link]: https://github.com/HaileyBot/captcha-generator
-[pin5-img]: https://aifeelit-readme-stats.vercel.app/api/pin/?username=aifeelit&repo=discord-ssh-bot
-[pin5-link]: https://github.com/aifeelit/discord-ssh-bot
-[pin6-img]: https://aifeelit-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=sanitize-role-mentions&show_owner=true
-[pin6-link]: https://github.com/HaileyBot/sanitize-role-mentions
