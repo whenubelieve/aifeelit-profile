@@ -48,6 +48,7 @@
   <img alt="Filecoin" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.png" height="36">
 </div>
 
+------------
 ## Contacts
 <p>
   <a href="https://discord.gg" target="_blank">
