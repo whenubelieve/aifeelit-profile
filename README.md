@@ -16,20 +16,48 @@
 ### Languages
 
 <div>
-  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36" style="margin:'20px'">
-  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
+  <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="36">
+  <img alt="Web3" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Web3.svg" height="36">
+  <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="36">
+  <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Typescript.svg" height="36">
+  <img alt="C++" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/C++.png" height="36">
+  <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="36">
+</div>
+
+### Frameworks
+
+<div>
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Mocha.png" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Waffle.png" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Chai.png" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Next.js.svg" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Vue.js.svg" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="36">
+</div>
+
+### Tools
+
+<div>
+  <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Hardhat.svg" height="36">
+  <img alt="Truffle" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Truffle.svg" height="36">
+  <img alt="Remix" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Remix.png" height="36">
+  <img alt="Ganache" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ganache.svg" height="36">
+  <img alt="Metamask" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Metamask.svg" height="36">
+  <img alt="IPFS" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/IPFS.svg" height="36">
+  <img alt="IPFS" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.svg" height="36">
 </div>
 
 ## Contacts
 <p>
   <a href="https://discord.gg" target="_blank">
-    <img alt="Medium" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/discord.png" height="36"/>
+    <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/discord.png" height="36"/>
   </a>
   <a href="https://t.me/hunter0129" target="_blank">
-    <img alt="Medium" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/telegram.png" height="36"/>
+    <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/telegram.png" height="36"/>
   </a>
   <a href="https://join.skype.com/invite/D2VAg8BG65ku" target="_blank">
-    <img alt="Medium" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/skype.png" height="36" />
+    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/skype.png" height="36" />
   </a>
 </p>
 
