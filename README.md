@@ -20,6 +20,12 @@
     <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
   </a>
 </code>
+<code>
+  <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
+</code>
+<div>
+  <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
+</div>
 
 
 ## Contacts
