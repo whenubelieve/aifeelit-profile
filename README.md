@@ -15,18 +15,12 @@
 
 ### Languages
 
-<code>
-  <a href="https://www.gnu.org/software/bash">
-    <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
-  </a>
-</code>
-<code>
-  <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
-</code>
 <div>
-  <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
+  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
 </div>
-
+<div>
+  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.svg" height="36">
+</div>
 
 ## Contacts
 <p>
