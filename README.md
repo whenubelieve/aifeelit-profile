@@ -48,7 +48,7 @@
 
 ## Contacts
 <p>
-<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png" /></a>
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://github.com/aifeelit/aifeelit/master/GitProfile.png" /></a>
 </p>
 
 <!-- Link anchors -->
