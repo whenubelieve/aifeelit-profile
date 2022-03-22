@@ -8,10 +8,11 @@
 
 <p align="justify">Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 (i.e. Proxy and Cross chain bridge, etc)</p>
-<p align="right">3 Years’ Solidity (2019-2021) | 4+ Year's Fullsatck Experience</p>
+<p align="right">3 Years’ Solidity (2019-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 4+ Year's Fullsatck Experience</p>
 
 
 ## Skills
+
 ### Languages
 
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/aifeelit/aifeelit/raw/master/icons/bash.png" height="42"></a></code>
@@ -49,7 +50,7 @@
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png
-[banner-link]: https://chrishunter.herokuapp.com
+[banner-link]: https://hunter0129.herokuapp.com/
 
 [sponsor]: https://github.com/sponsors/aifeelit
 
