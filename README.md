@@ -15,7 +15,7 @@
 
 ### Languages
 
-<div class="d-flex gap-1">
+<div class="d-flex" style="gap: '10px'">
   <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
   <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
 </div>
