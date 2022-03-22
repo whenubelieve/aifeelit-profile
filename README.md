@@ -15,8 +15,8 @@
 
 ### Languages
 
-<div style="display:'flex'; gap:'20px'">
-  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
+<div>
+  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36" style="margin:'20px'">
   <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
 </div>
 
