@@ -19,7 +19,7 @@
   <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Avalanche.png" height="36">
 </div>
 <div>
-  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.svg" height="36">
+  <img alt="aaa" title="aa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
 </div>
 
 ## Contacts
