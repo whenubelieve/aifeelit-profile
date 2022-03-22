@@ -51,7 +51,7 @@
 ## Contacts
 <p>
   <a href="https://discord.gg" target="_blank">
-    <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/discord.svg" height="36"/>
+    <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/discord.png" height="36"/>
   </a>
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.webp" height="36"/>
