@@ -24,7 +24,7 @@
   <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="36">
 </div>
 
-### Frameworks | Libraries
+### Frameworks, Libraries
 
 <div>
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Mocha.png" height="36">
