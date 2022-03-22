@@ -16,7 +16,7 @@
 ### Languages
 
 <div>
-  <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.svg" height="36">
+  <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="36">
   <img alt="Web3" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Web3.svg" height="36">
   <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="36">
   <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/TypeScript.svg" height="36">
@@ -31,7 +31,7 @@
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Waffle.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Chai.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
-  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Next.js.svg" height="36">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Next.js.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Vue.js.svg" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="36">
 </div>
