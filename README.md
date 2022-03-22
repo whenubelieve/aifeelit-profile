@@ -16,10 +16,10 @@
 ### Languages
 
 <div>
-  <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="36">
+  <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.svg" height="36">
   <img alt="Web3" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Web3.svg" height="36">
   <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="36">
-  <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Typescript.svg" height="36">
+  <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/TypeScript.svg" height="36">
   <img alt="C++" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/C++.png" height="36">
   <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="36">
 </div>
@@ -42,10 +42,10 @@
   <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Hardhat.svg" height="36">
   <img alt="Truffle" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Truffle.svg" height="36">
   <img alt="Remix" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Remix.png" height="36">
-  <img alt="Ganache" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ganache.svg" height="36">
+  <img alt="Ganache" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ganache.png" height="36">
   <img alt="Metamask" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Metamask.svg" height="36">
   <img alt="IPFS" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/IPFS.svg" height="36">
-  <img alt="IPFS" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.svg" height="36">
+  <img alt="Filecoin" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.png" height="36">
 </div>
 
 ## Contacts
