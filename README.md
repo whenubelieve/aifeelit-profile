@@ -59,12 +59,13 @@
   <a href="https://join.skype.com/invite/D2VAg8BG65ku" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/skype.png" height="36" />
   </a>
-  <a href="https://hunter0129.herokuapp.com/" target="_blank">
+  <!-- <a href="https://hunter0129.herokuapp.com/" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="36" />
-  </a>
+  </a> -->
 </p>
 
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png
-[banner-link]: https://hunter0129.herokuapp.com/
+[banner-link]: https://github.com/aifeelit
+<!-- [banner-link]: https://hunter0129.herokuapp.com/ -->
