@@ -42,7 +42,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <img alt="Filecoin" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.png" height="28">
 </div>
 
-## Contacts
+##
 <p align="center">
   <!-- <a href="/" target="_blank">
     <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/linkedin.png" height="28"/>
