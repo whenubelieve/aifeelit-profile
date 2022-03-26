@@ -43,14 +43,10 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 </div>
 
 ##
-<img align="left" alt="Hat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28">
+<a href="https://t.me/hunter0129" target="_blank" align="left">
+  <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
+</a>
 <p align="right">
-  <!-- <a href="/" target="_blank">
-    <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/linkedin.png" height="28"/>
-  </a> -->
-  <!-- <a href="/" target="_blank">
-    <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/discord.png" height="28"/>
-  </a> -->
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
   </a>
@@ -63,9 +59,6 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <a href="https://github.com/aifeelit" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
   </a>
-  <!-- <a href="https://hunter0129.herokuapp.com/" target="_blank">
-    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
-  </a> -->
 </p>
 
 
