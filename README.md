@@ -43,7 +43,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 </div>
 
 <h2>asdlf;ksdjf <span>
-<p align="right">
+<!-- <p align="right"> -->
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
   </a>
@@ -57,7 +57,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
   </a>
 </p>
-</span>
+<!-- </span> -->
 </h2>
 
 <!-- Link anchors -->
