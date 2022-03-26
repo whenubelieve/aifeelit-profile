@@ -47,9 +47,9 @@
   <!-- <a href="/" target="_blank">
     <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/linkedin.png" height="32"/>
   </a> -->
-  <a href="/" target="_blank">
+  <!-- <a href="/" target="_blank">
     <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/discord.png" height="32"/>
-  </a>
+  </a> -->
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="32"/>
   </a>
