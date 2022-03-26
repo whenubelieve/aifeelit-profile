@@ -13,7 +13,7 @@
 
 ## Skills
 
-### Languages
+### Languages | Frameworks, Libraries | Tools
 
 <div>
   <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="36">
@@ -21,24 +21,14 @@
   <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="36">
   <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/TypeScript.svg" height="36">
   <img alt="C++" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/C++.png" height="36">
-  <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="36">
-</div>
-
-### Frameworks, Libraries
-
-<div>
+  <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="36"> | 
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Mocha.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Waffle.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Chai.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Next.js.png" height="36">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Vue.js.svg" height="36">
-  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="36">
-</div>
-
-### Tools
-
-<div>
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="36"> | 
   <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Hardhat.svg" height="36">
   <img alt="Truffle" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Truffle.svg" height="36">
   <img alt="Remix" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Remix.png" height="36">
