@@ -42,7 +42,8 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <img alt="Filecoin" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.png" height="28">
 </div>
 
-<h2>asdlf;ksdjf <span align="right">
+<h2>asdlf;ksdjf <span>
+<div>
 <!-- <p align="right"> -->
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
@@ -56,8 +57,9 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <a href="https://github.com/aifeelit" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
   </a>
-</p>
-<!-- </span> -->
+<!-- </p> -->
+</div>
+</span>
 </h2>
 
 <!-- Link anchors -->
