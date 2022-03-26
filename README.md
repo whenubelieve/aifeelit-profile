@@ -19,14 +19,20 @@
   <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="32">
   <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/TypeScript.svg" height="32">
   <img alt="C++" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/C++.png" height="32">
-  <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="32"> | 
+  <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="32">
+
+  <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="20">
+  
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Mocha.png" height="32">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Waffle.png" height="32">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Chai.png" height="32">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="32">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Next.js.png" height="32">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Vue.js.svg" height="32">
-  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="32"> | 
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="32">
+
+  <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="20">
+
   <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Hardhat.svg" height="32">
   <img alt="Truffle" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Truffle.svg" height="32">
   <img alt="Remix" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Remix.png" height="32">
@@ -38,14 +44,17 @@
 
 ## Contacts
 <p align="center">
-  <!-- <a href="https://discord.gg" target="_blank">
+  <a href="/" target="_blank">
     <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/discord.png" height="32"/>
-  </a> -->
+  </a>
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="32"/>
   </a>
   <a href="https://join.skype.com/invite/D2VAg8BG65ku" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/skype.png" height="32" />
+  </a>
+  <a href="/" target="_blank">
+    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="32" />
   </a>
   <!-- <a href="https://hunter0129.herokuapp.com/" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="32" />
