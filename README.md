@@ -1,4 +1,19 @@
 <!-- [![Banner][banner-img]][banner-link] -->
+<p align="center">
+  <a href="https://t.me/hunter0129" target="_blank">
+    <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
+  </a>
+  <a href="https://join.skype.com/invite/D2VAg8BG65ku" target="_blank">
+    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/skype.png" height="28" />
+  </a>
+  
+  <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="12">
+
+  <a href="https://github.com/aifeelit" target="_blank">
+    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
+  </a>
+</p>
+
 
 <h2>Sr. Smart Contract Engineer<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2>
 
@@ -57,9 +72,6 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
   </a>
 </p>
-laslkdasdfsdfsdfsdf safkdsdf sdf asdf ekfh asdfjsaj dfsoaksdyfsdf 
-
-##
 
 <!-- Link anchors -->
 <!-- [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png -->
