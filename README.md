@@ -44,8 +44,9 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 
 ##
 <p align="center">
+  Telegram: 
   <a href="https://t.me/hunter0129" target="_blank">
-    <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/> Telegram | 
+    <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
   </a>
   <a href="https://join.skype.com/invite/D2VAg8BG65ku" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/skype.png" height="28" />
@@ -58,6 +59,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   </a>
 </p>
 
+##
 
 <!-- Link anchors -->
 <!-- [banner-img]: https://raw.githubusercontent.com/aifeelit/aifeelit/master/GitProfile.png -->
