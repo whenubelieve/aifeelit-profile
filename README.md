@@ -9,7 +9,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 <p align="right">3 Years Solidity (2019-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 4+ Years Fullsatck Experience</p>
 
 
-## Key Skills
+## Professional Skills
 
 <!-- ### Languages | Frameworks, Libraries | Tools -->
 
