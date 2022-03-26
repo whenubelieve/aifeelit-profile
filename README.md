@@ -43,7 +43,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 </div>
 
 ##
-<p align="right">
+<p align="center">
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
   </a>
@@ -51,10 +51,10 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/skype.png" height="28" />
   </a>
   
-  <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="16">
+  <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="12">
 
   <a href="https://github.com/aifeelit" target="_blank">
-    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
+    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="32" />
   </a>
 </p>
 
