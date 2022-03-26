@@ -59,7 +59,7 @@
   
   <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="20">
 
-  <a href="/" target="_blank">
+  <a href="https://github.com/aifeelit" target="_blank">
     <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="32" />
   </a>
   <!-- <a href="https://hunter0129.herokuapp.com/" target="_blank">
