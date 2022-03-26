@@ -2,14 +2,16 @@
 
 <h2>Profile<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2>
 
-### I am a Sr. Smart Contract Engineer
+<!-- ### I am a Sr. Smart Contract Engineer -->
 
 <p align="justify">As Dedicated and Passionate Smart Contract developer I have strong fundamentals of blockchain technology and various types of networks. (Ethereum, BSC, Avalanche, Polygon, Fantom, etc). Getting involved to build DeFi, DEX, DAO and NFT projects as well. Having expertise in ERC20, 721, 721A, 1155 and BEP20 token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 (i.e. Proxy and Cross chain bridge, etc)</p>
 <p align="right">3 Years’ Solidity (2019-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 4+ Year's Fullsatck Experience</p>
 
 
-## Skills ### Languages | Frameworks, Libraries | Tools
+## Key Skills
+
+<!-- ### Languages | Frameworks, Libraries | Tools -->
 
 <div align="center">
   <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="32">
