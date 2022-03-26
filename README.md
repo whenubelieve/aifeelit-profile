@@ -1,4 +1,4 @@
-[![Banner][banner-img]][banner-link]
+<!-- [![Banner][banner-img]][banner-link] -->
 
 <h2>Profile<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2>
 
