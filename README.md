@@ -9,9 +9,7 @@
 <p align="right">3 Years’ Solidity (2019-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 4+ Year's Fullsatck Experience</p>
 
 
-## Skills
-
-### Languages | Frameworks, Libraries | Tools
+## Skills ### Languages | Frameworks, Libraries | Tools
 
 <div align="center">
   <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="32">
