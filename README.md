@@ -44,6 +44,9 @@
 
 ## Contacts
 <p align="center">
+  <!-- <a href="/" target="_blank">
+    <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/linkedin.png" height="32"/>
+  </a> -->
   <a href="/" target="_blank">
     <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/discord.png" height="32"/>
   </a>
