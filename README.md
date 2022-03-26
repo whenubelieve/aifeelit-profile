@@ -44,7 +44,6 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 
 ##
 <p align="center">
-  Telegram: 
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
   </a>
