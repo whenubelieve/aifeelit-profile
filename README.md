@@ -16,7 +16,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 <div align="center">
   <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="28">
   <img alt="Web3" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Web3.svg" height="28">
-  <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="20">
+  <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="26">
   <img alt="Typescript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/TypeScript.svg" height="28">
   <img alt="C++" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/C++.png" height="28">
   <img alt="Javascript" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Javascript.svg" height="28">
@@ -28,7 +28,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Chai.png" height="28">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/React.svg" height="28">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Next.js.png" height="28">
-  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Vue.js.svg" height="20">
+  <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Vue.js.svg" height="26">
   <img alt="aaa" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Nuxt.js.svg" height="28">
 
   <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="20">
