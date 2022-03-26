@@ -43,7 +43,8 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 </div>
 
 ##
-<p align="center">
+<img align="left" alt="Hat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28">
+<p align="right">
   <!-- <a href="/" target="_blank">
     <img alt="discord" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/linkedin.png" height="28"/>
   </a> -->
