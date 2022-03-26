@@ -15,7 +15,7 @@
 
 ### Languages | Frameworks, Libraries | Tools
 
-<div>
+<div align="center">
   <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="32">
   <img alt="Web3" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Web3.svg" height="32">
   <img alt="Ethers" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Ethers.png" height="32">
