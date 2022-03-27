@@ -1,7 +1,7 @@
 <!-- [![Banner][banner-img]][banner-link] -->
 
-<h2>Sr. Smart Contract Engineer![](https://img.shields.io/badge/living--in-France-green)<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2>
-
+<h2>Sr. Smart Contract Engineer<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2>
+![](https://img.shields.io/badge/living--in-France-green)
 <!-- ### I am a Sr. Smart Contract Engineer -->
 
 As Dedicated and Passionate `Smart Contract developer` I have strong fundamentals of blockchain technology and various types of networks. (Ethereum, BSC, Avalanche, Polygon, Fantom, etc). Getting involved to build `DeFi`, `DEX`, `DAO` and `NFT` projects as well. Having expertise in `ERC20`, `ERC721`, `ERC721A`, `ERC1155` and `BEP20` token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
