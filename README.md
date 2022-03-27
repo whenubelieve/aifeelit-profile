@@ -7,8 +7,6 @@
 As Dedicated and Passionate `Smart Contract developer` I have strong fundamentals of blockchain technology and various types of networks. (Ethereum, BSC, Avalanche, Polygon, Fantom, etc). Getting involved to build `DeFi`, `DEX`, `DAO` and `NFT` projects as well. Having expertise in `ERC20`, `ERC721`, `ERC721A`, `ERC1155` and `BEP20` token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 (i.e. `Proxy` and `Cross chain bridge`, etc)
 <p align="right">3 Years Solidity (2019-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 4+ Years Fullsatck Experience</p>
-
-
 <!-- ## Professional Skills -->
 
 <!-- ### Languages | Frameworks, Libraries | Tools -->
@@ -41,8 +39,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <img alt="IPFS" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/IPFS.svg" height="28">
   <img alt="Filecoin" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.png" height="28">
 </div> -->
-
-##
+<!-- ## -->
 <p align="center">
   <a href="https://t.me/hunter0129" target="_blank">
     <img alt="telegram" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/telegram.png" height="28"/>
