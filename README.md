@@ -9,10 +9,10 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
 <p align="right">3 Years Solidity (2019-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 4+ Years Fullsatck Experience</p>
 
 
-## Professional Skills
+<!-- ## Professional Skills -->
 
 <!-- ### Languages | Frameworks, Libraries | Tools -->
-
+<!-- 
 <div align="center">
   <img alt="Solidity" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Solidity.png" height="28">
   <img alt="Web3" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Web3.svg" height="28">
@@ -40,7 +40,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <img alt="Metamask" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Metamask.svg" height="28">
   <img alt="IPFS" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/IPFS.svg" height="28">
   <img alt="Filecoin" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Filecoin.png" height="28">
-</div>
+</div> -->
 
 ##
 <p align="center">
