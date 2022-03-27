@@ -51,7 +51,7 @@ As Dedicated and Passionate `Smart Contract developer` I have strong fundamental
   <!-- <img alt="Hardhat" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Skill/Blank.png" height="12"> -->
 
   <a href="https://github.com/aifeelit" target="_blank">
-    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="32" />
+    <img alt="skype" src="https://raw.githubusercontent.com/aifeelit/aifeelit/master/Contact/website.png" height="28" />
   </a>
 <!-- </p> -->
 
