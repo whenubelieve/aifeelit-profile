@@ -1,7 +1,7 @@
 <!-- [![Banner][banner-img]][banner-link] -->
 
 <!-- <h2>Sr. Fullstack + Smart Contract Engineer<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2> -->
-<h2>Sr. Smart Contract Engineer</h2>
+<h2>Sr. Fullstack + Smart Contract Engineer</h2>
 
 As Dedicated and Passionate `Smart Contract Engineer` I have strong fundamentals of blockchain technology and various types of networks. (Ethereum, BSC, Avalanche, Polygon, Fantom, etc). Getting involved to build `DeFi`, `DEX`, `DAO`, `NFT` projects, `Wallet` and `Marketplace` as well. Having expertise in `ERC20`, `ERC721`, `ERC721A`, `ERC1155` and `BEP20` token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 (i.e. `Proxy` and `Cross chain bridge`, etc)
