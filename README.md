@@ -5,7 +5,7 @@
 
 As Dedicated and Passionate `Smart Contract Engineer` I have strong fundamentals of blockchain technology and various types of networks. (Ethereum, BSC, Avalanche, Polygon, Fantom, etc). Getting involved to build `DeFi`, `DEX`, `DAO`, `NFT` projects, `Wallet` and `Marketplace` as well. Having expertise in `SUBGRAPH`, `ERC20`, `ERC721`, `ERC721A`, `ERC1155` and `BEP20` token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 (i.e. `Proxy` and `Cross chain bridge`, etc)
-<p align="right">4 Years Solidity (2018-2021) &nbsp;&nbsp; | &nbsp;&nbsp; 12+ Years Fullsatck Experience</p>
+<p align="right">4 Years Blockchain &nbsp;&nbsp; | &nbsp;&nbsp; 12+ Years Fullsatck Experience</p>
 <!-- ## Professional Skills -->
 
 <!-- ### Languages | Frameworks, Libraries | Tools -->
