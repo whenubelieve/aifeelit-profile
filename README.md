@@ -1,7 +1,7 @@
 <!-- [![Banner][banner-img]][banner-link] -->
 
 <!-- <h2>Sr. Frontend + Web3 + Smart Contract Engineer<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=aifeelit&style=flat-square"></h2> -->
-<h2 align="center">Sr. Blockchain (fullstack) Engineer</h2>
+<h2 align="center">Senior Blockchain + Fullstack Engineer</h2>
 
 As Dedicated and Passionate `Blockchain Developer` I have strong fundamentals of blockchain technology and incredible experience in various types of networks. (`Bitcoin`, `ETHEREUM`, `SOLANA`, `Cardano`, etc). Getting involved to build `DeFi`, `DEX`, `DAO`, `WALLET`, `NFT` projects and `Marketplace` as well. Having expertise in `SUBGRAPH`, `ERC20`, `ERC721`, `ERC721A`, `ERC1155` and `BEP20` token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 <!-- (i.e. `Proxy` and `Cross chain bridge`, etc) -->
