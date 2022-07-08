@@ -4,4 +4,4 @@ As Dedicated and Passionate `Blockchain Developer` I have strong fundamentals of
 
 _MainStack >`React`, `Rust`, `Solidity`and `RubyOnRails`
 
-<p align="right">3+ Years Blockchain &nbsp;&nbsp; | &nbsp;&nbsp; 12 Years Fullsatck Experience</p>
+<p align="right">3+ Years Blockchain &nbsp;&nbsp; | &nbsp;&nbsp; 10+ Years Fullsatck Experience</p>
