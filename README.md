@@ -6,4 +6,8 @@ _MainStack >`React`, `Node`, `Rust` and `Solidity`
 
 <p align="right">5+ Years Blockchain &nbsp;&nbsp; | &nbsp;&nbsp; 10+ Years Fullsatck Experience</p>
 
-🎁 | 0x123412423423423
+0x42261b574358b4EE8ad3D43FB416B4D82D61CD93 (Jhonatan)
+
+0x04Eb56f9e6B1652AFe61e3c63fE38614Cd988Ab8
+0x04Eb56f9e6B1652AFe61e3c63fE38614Cd988Ab8
+0x04Eb56f9e6B1652AFe61e3c63fE38614Cd988Ab8
